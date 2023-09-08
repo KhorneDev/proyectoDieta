@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Project-Dieta</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="ingresar_alimento">Ingresar alimento</string>
+    <string name="ingresa_el_nombre_del_alimento">Ingresa el nombre del alimento</string>
+    <string name="ingresa_las_calorias">Ingresa las calorias</string>
+    <string name="ingrese_las_proteinas">Ingrese las proteinas</string>
+    <string name="ingrese_las_grasas">Ingrese las grasas</string>
+    <string name="ingrese_los_carbohidratos">Ingrese los carbohidratos</string>
+</resources>
